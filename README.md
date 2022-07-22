@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![RobertoPotato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoPotato&hide=contribs,prs&show_icons=true)](https://github.com/RobertoPotato/github-readme-stats)
+[![RobertoPotato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoPotato&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPotato)](https://github.com/RobertoPotato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoPotato)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
